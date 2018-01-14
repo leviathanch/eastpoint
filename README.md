@@ -6,4 +6,4 @@ This design is distributed in the hope that it will be useful, but WITHOUT ANY W
 
 See the Libre Silicon Public License for more details.
 
-This is the specification of the free silicon MCU with code name "North Point" based on the free technology node ls018\footnotemark (standard logic cells and LibreSilicon process).
+This is the specification of the free silicon SoC with code name "East Point" based on the free technology node ls018 (standard logic cells and LibreSilicon process).
